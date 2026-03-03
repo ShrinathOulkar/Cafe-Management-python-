@@ -1,0 +1,249 @@
+[
+    {
+        "username": "shrinath",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 2,
+                "cost": 60
+            },
+            {
+                "item": "Cold Coffee",
+                "qty": 3,
+                "cost": 240
+            }
+        ],
+        "total": 300
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 2,
+                "cost": 60
+            }
+        ],
+        "total": 60
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 1,
+                "cost": 30
+            },
+            {
+                "item": "Cold Coffee",
+                "qty": 2,
+                "cost": 160
+            }
+        ],
+        "total": 190
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Vanilla Ice Cream",
+                "qty": 2,
+                "cost": 120
+            },
+            {
+                "item": "Pasta",
+                "qty": 2,
+                "cost": 260
+            }
+        ],
+        "total": 380,
+        "date": "2025-11-26 17:33:52"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Vanilla Ice Cream",
+                "qty": 2,
+                "cost": 120
+            },
+            {
+                "item": "Pasta",
+                "qty": 2,
+                "cost": 260
+            }
+        ],
+        "total": 380,
+        "date": "2025-11-26 17:40:52"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Vanilla Ice Cream",
+                "qty": 2,
+                "cost": 120
+            },
+            {
+                "item": "Pasta",
+                "qty": 2,
+                "cost": 260
+            }
+        ],
+        "total": 380,
+        "date": "2025-11-26 17:50:37"
+    },
+    {
+        "username": "jai",
+        "orders": [
+            {
+                "item": "Chocolate Shake",
+                "qty": 2,
+                "cost": 220
+            },
+            {
+                "item": "Vanilla Ice Cream",
+                "qty": 2,
+                "cost": 120
+            }
+        ],
+        "total": 340,
+        "date": "2025-11-26 17:52:05"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Vanilla Ice Cream",
+                "qty": 2,
+                "cost": 120
+            },
+            {
+                "item": "Pizza",
+                "qty": 2,
+                "cost": 300
+            }
+        ],
+        "total": 420,
+        "date": "2025-11-26 18:03:10"
+    },
+    {
+        "username": "jai",
+        "orders": [
+            {
+                "item": "Veg Burger",
+                "qty": 2,
+                "cost": 240
+            },
+            {
+                "item": "Cheese Sandwich",
+                "qty": 2,
+                "cost": 180
+            }
+        ],
+        "total": 420,
+        "date": "2025-11-26 18:10:01"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 2,
+                "cost": 60
+            },
+            {
+                "item": "Cold Coffee",
+                "qty": 2,
+                "cost": 160
+            }
+        ],
+        "total": 220,
+        "date": "2025-11-27 14:21:01"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Vanilla Ice Cream",
+                "qty": 2,
+                "cost": 120
+            },
+            {
+                "item": "Tea",
+                "qty": 0,
+                "cost": 0
+            }
+        ],
+        "total": 120,
+        "date": "2025-11-27 14:31:26"
+    },
+    {
+        "username": "mohan",
+        "orders": [
+            {
+                "item": "Cold Coffee",
+                "qty": 1,
+                "cost": 80
+            },
+            {
+                "item": "Pizza",
+                "qty": 1,
+                "cost": 150
+            }
+        ],
+        "total": 230,
+        "date": "2025-11-27 14:34:32"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 1,
+                "cost": 30
+            },
+            {
+                "item": "Cold Coffee",
+                "qty": 1,
+                "cost": 80
+            }
+        ],
+        "total": 110,
+        "date": "2025-11-27 15:00:55"
+    },
+    {
+        "username": "yash",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 2,
+                "cost": 60
+            },
+            {
+                "item": "Cold Coffee",
+                "qty": 1,
+                "cost": 80
+            }
+        ],
+        "total": 140,
+        "date": "2025-11-27 15:07:28"
+    },
+    {
+        "username": "shrinath",
+        "orders": [
+            {
+                "item": "Tea",
+                "qty": 2,
+                "cost": 60
+            },
+            {
+                "item": "Pizza",
+                "qty": 2,
+                "cost": 300
+            }
+        ],
+        "total": 360,
+        "date": "2025-11-27 16:50:38"
+    }
+]

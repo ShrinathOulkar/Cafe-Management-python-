@@ -1,0 +1,160 @@
+[
+    {
+        "username": "yash",
+        "subtotal": 60,
+        "gst_5_percent": 3.0,
+        "total_amount": 63.0,
+        "method": "Cash",
+        "status": "Successful",
+        "date": "2025-11-10 21:04:40"
+    },
+    {
+        "username": "yash",
+        "subtotal": 220,
+        "gst_5_percent": 11.0,
+        "total_amount": 231.0,
+        "method": "Card",
+        "status": "Successful",
+        "date": "2025-11-10 21:06:20"
+    },
+    {
+        "username": "shrinath",
+        "subtotal": 100,
+        "gst_5_percent": 5.0,
+        "total_amount": 105.0,
+        "method": "Cash",
+        "status": "Successful",
+        "change_returned": 395.0,
+        "date": "2025-11-25 15:53:17"
+    },
+    {
+        "username": "shrinath",
+        "subtotal": 300,
+        "gst_5_percent": 15.0,
+        "total_amount": 315.0,
+        "method": "UPI",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-25 22:50:26"
+    },
+    {
+        "username": "yash",
+        "subtotal": 130,
+        "gst_5_percent": 6.5,
+        "total_amount": 136.5,
+        "method": "",
+        "status": "Failed",
+        "change_returned": 0.0,
+        "date": "2025-11-26 17:02:02"
+    },
+    {
+        "username": "yash",
+        "subtotal": 60,
+        "gst_5_percent": 3.0,
+        "total_amount": 63.0,
+        "method": "",
+        "status": "Failed",
+        "change_returned": 0.0,
+        "date": "2025-11-26 17:16:18"
+    },
+    {
+        "username": "yash",
+        "subtotal": 60,
+        "gst_5_percent": 3.0,
+        "total_amount": 63.0,
+        "method": "",
+        "status": "Failed",
+        "change_returned": 0.0,
+        "date": "2025-11-26 17:28:23"
+    },
+    {
+        "username": "yash",
+        "subtotal": 60,
+        "gst_5_percent": 3.0,
+        "total_amount": 63.0,
+        "method": "",
+        "status": "Failed",
+        "change_returned": 0.0,
+        "date": "2025-11-26 17:35:13"
+    },
+    {
+        "username": "yash",
+        "subtotal": 380,
+        "gst_5_percent": 19.0,
+        "total_amount": 399.0,
+        "method": "",
+        "status": "Failed",
+        "change_returned": 0.0,
+        "date": "2025-11-26 17:51:09"
+    },
+    {
+        "username": "yash",
+        "subtotal": 420,
+        "gst_5_percent": 21.0,
+        "total_amount": 441.0,
+        "method": "Card",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-26 18:04:42"
+    },
+    {
+        "username": "jai",
+        "subtotal": 420,
+        "gst_5_percent": 21.0,
+        "total_amount": 441.0,
+        "method": "UPI",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-26 18:10:19"
+    },
+    {
+        "username": "yash",
+        "subtotal": 220,
+        "gst_5_percent": 11.0,
+        "total_amount": 231.0,
+        "method": "Cash",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-27 14:22:22"
+    },
+    {
+        "username": "mohan",
+        "subtotal": 230,
+        "gst_5_percent": 11.5,
+        "total_amount": 241.5,
+        "method": "Cash",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-27 14:34:44"
+    },
+    {
+        "username": "yash",
+        "subtotal": 110,
+        "gst_5_percent": 5.5,
+        "total_amount": 115.5,
+        "method": "UPI",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-27 15:01:35"
+    },
+    {
+        "username": "yash",
+        "subtotal": 140,
+        "gst_5_percent": 7.0,
+        "total_amount": 147.0,
+        "method": "UPI",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-27 15:08:02"
+    },
+    {
+        "username": "shrinath",
+        "subtotal": 360,
+        "gst_5_percent": 18.0,
+        "total_amount": 378.0,
+        "method": "Card",
+        "status": "Successful",
+        "change_returned": 0.0,
+        "date": "2025-11-27 16:50:57"
+    }
+]
